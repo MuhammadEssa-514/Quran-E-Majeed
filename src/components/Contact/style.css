@@ -1,0 +1,8 @@
+.background {
+    /* background-image: url('../../assets/Quran wallpaper.png'); */
+    background-image: url('../../assets/pngtree.png'); 
+    
+    background-size: cover;
+    width: 100%;
+    height: 600px;
+  }
